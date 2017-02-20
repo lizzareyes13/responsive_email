@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+  table[class="responsive-table"] {
+    width: 100% !important; }
+  img[class="responsive-image"] {
+    max-width: 100% !important;
+    height: auto !important; }
+  td[class="headline"] {
+    font-size: 36px !important;
+    background: #222222;
+    color: #ffffff;
+    padding-bottom: 20px; } }
